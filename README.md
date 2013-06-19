@@ -47,3 +47,5 @@ Api: [http://expressjs.com/api.html](http://expressjs.com/api.html)
 Guide: [http://expressjs.com/guide.html](http://expressjs.com/guide.html)
 
 Repository: [https://github.com/visionmedia/express](https://github.com/visionmedia/express)
+
+Jade: [https://github.com/visionmedia/jade](https://github.com/visionmedia/jade)
