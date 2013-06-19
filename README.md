@@ -15,7 +15,7 @@ Because then it wil run ```$nodemon app.js``` instead of ```$node app.js```. See
 
 ### Installed Packages
 
-####Nodemon
+#### Nodemon
 For use during development of a node.js based application.
 
 nodemon will watch the files in the directory that nodemon was started, and if they change, it will automatically restart your node application.
@@ -37,3 +37,13 @@ nodemon does not require any changes to your code or method of development. node
   // running the app
   $npm start
 ```
+
+#### Express
+Fast, unopinionated, minimalist web framework for node. [http://expressjs.com/](http://expressjs.com/)
+See guide for installation and api for documentation
+
+Api: [http://expressjs.com/api.html](http://expressjs.com/api.html)
+
+Guide: [http://expressjs.com/guide.html](http://expressjs.com/guide.html)
+
+Repository: [https://github.com/visionmedia/express](https://github.com/visionmedia/express)
